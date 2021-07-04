@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/just_some_pkg_chauwa.egg-info/PKG-INFO
+src/just_some_pkg_chauwa.egg-info/SOURCES.txt
+src/just_some_pkg_chauwa.egg-info/dependency_links.txt
+src/just_some_pkg_chauwa.egg-info/top_level.txt
